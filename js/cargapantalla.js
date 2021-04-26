@@ -1,4 +1,5 @@
 window.onload = function(){
+    $(".u-floatLeft").css("display", "none");
     var padre = document.getElementById("contenedor_padre")
     var contenedor = document.getElementById("contenedor_carga")
     var imgcarg = document.getElementById("carga")
